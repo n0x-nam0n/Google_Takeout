@@ -1,3 +1,5 @@
+Some python scripts to clean up Google Takeout .json files.  Working on running these on a website to allow users to upload their files and have them cleaned as well.
+
 
 Clean_Contacts.py
 
