@@ -87,3 +87,21 @@ Save the script as clean_app_history.py.
 Run the script:
 4. The formatted output for all installed programs will be printed to the console.
 -------------------------------------------------------------------------------------------------------------
+
+Clean_VCF.py
+
+pip install vobject
+pip install vobject
+
+How to Use:
+Install the vobject library if you don’t already have it:
+2. Save the script as Cleaned_VCF.py.
+3. Ensure contacts.vcf is in the same directory.
+4. Run the script:
+   python Cleaned_VCF.py /path/to/contacts.vcf
+5. The formatted output for all contacts will be printed to the console.
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
